@@ -277,6 +277,7 @@ if (g_class == "DMSV_SL") then {
 			["rhs_30Rnd_545x39_AK",10],
 			["rhs_mag_9x18_12_57N181S",10],
 			["rhs_rpg7_PG7VL_mag",5]
+			["rhs_rpg7_OG7V_mag",5]
         ];
 
 		_tmp_items =
@@ -737,6 +738,7 @@ if (g_class == "WMSV_SL") then {
 			["rhs_30Rnd_545x39_AK",10],
 			["rhs_mag_9x18_12_57N181S",10],
 			["rhs_rpg7_PG7VL_mag",5]
+			["rhs_rpg7_OG7V_mag",5]
         ];
 
 		_tmp_items =
