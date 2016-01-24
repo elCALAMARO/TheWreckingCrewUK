@@ -94,6 +94,7 @@ if (g_class == "ANA_SL") then {
             
 				["30Rnd_556x45_Stanag",50],
 				["rhs_rpg7_pg7vl_mag",15]
+				["rhs_rpg7_OG7V_mag",15]
         ];
 
 		_tmp_items =
